@@ -27,11 +27,11 @@ As a young professional in Instructional Design and Educational Learning Technol
 
 #Collapsible section
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
+###<details>
+###<summary>My top THINGS-TO-RANK</summary>
 
-<details>
-<summary>My top languages</summary>
+###<details>
+###<summary>My top languages</summary>
 
 #Here is a thing
 | Rank | Languages |
