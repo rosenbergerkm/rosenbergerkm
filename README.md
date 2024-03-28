@@ -50,3 +50,5 @@ YOUR TABLE
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
