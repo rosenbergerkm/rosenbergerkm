@@ -30,6 +30,18 @@ As a young professional in Instructional Design and Educational Learning Technol
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
+<details>
+<summary>My top languages</summary>
+
+#Here is a thing
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 YOUR TABLE
 
 </details>
