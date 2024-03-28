@@ -18,11 +18,11 @@ As a young professional in Instructional Design and Educational Learning Technol
 
 # Table Example
 
-# | Rank | THING-TO-RANK |
-# |-----:|---------------|
-# |     1|               |
-# |     2|               |
-# |     3|               |
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 
 #Collapsible section
