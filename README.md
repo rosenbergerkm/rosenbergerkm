@@ -16,6 +16,7 @@ As a young professional in Instructional Design and Educational Learning Technol
 [Horizon Workrooms Flier](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Horizon%20Workrooms%20Flier.pdf)  
 [Useful Links(UNM Los Alamos Student Help Information Document)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)  
 
+#Table Example
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
@@ -24,4 +25,12 @@ As a young professional in Instructional Design and Educational Learning Technol
 |     3|               |
 
 
+#Collapsible section
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
 
