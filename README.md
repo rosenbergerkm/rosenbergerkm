@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to my eLearning Portfolio!
 
-<!--
-**rosenbergerkm/rosenbergerkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a young professional in Instructional Design and Educational Learning Technologies, I have provided a collection of sample materials that demonstrate my skills in these fields. Please see my work below!
 
-Here are some ideas to get you started:
+# Instructional Design Samples
+[Succeeding as an Online Student (Articulate Rise Sample)](https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Online Course Samples
+[Course Objectives Sample](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf)  
+[Course Outline Sample (Fundamentals of Music Production)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf)
+
+# Infographics, Fliers, Information Documents
+
+[Digital Citizenship Infographic](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf)  
+[TPack Infographic](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/TPACK%20Infograph.pdf)  
+[Horizon Workrooms Flier](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Horizon%20Workrooms%20Flier.pdf)  
+[Useful Links(UNM Los Alamos Student Help Information Document)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)  
+
+
+
