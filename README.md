@@ -16,39 +16,4 @@ As a young professional in Instructional Design and Educational Learning Technol
 [Horizon Workrooms Flier](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Horizon%20Workrooms%20Flier.pdf)  
 [Useful Links(UNM Los Alamos Student Help Information Document)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)  
 
-# Table Example
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-
-#Collapsible section
-
-###<details>
-###<summary>My top THINGS-TO-RANK</summary>
-
-###<details>
-###<summary>My top languages</summary>
-
-#Here is a thing
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
-
-YOUR TABLE
-
-</details>
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
