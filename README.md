@@ -1,6 +1,6 @@
 # Welcome to my eLearning Portfolio!
 
-As a young professional in Instructional Design and Educational Learning Technologies, I have provided a collection of sample materials that demonstrate my skills in these fields. Please see my work below!
+As a professional in Instructional Design and Educational Learning Technologies, I have provided a collection of sample materials that demonstrate my skills in these fields. Please see my work below!
 
 # Evidenced Based Practices for Teaching Online
 [Participant Goals for EBPTO](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Participant_Goals_for_EBPTO.pdf)
