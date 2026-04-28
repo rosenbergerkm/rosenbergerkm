@@ -4,10 +4,15 @@ As a young professional in Instructional Design and Educational Learning Technol
 
 # Evidenced Based Practices for Teaching Online
 [Participant Goals for EBPTO](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Participant_Goals_for_EBPTO.pdf)
+
 [Course Goals and Outcomes](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course_Objectives.pdf)
+
 [Course Map](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course_Map_-_Fundamentals_of_Music_Production.pdf)
+
 [Course Activity/Assessment](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Mini-Project_1_FOMP_Class.pdf)
+
 [Instructor Communication Plan/Statement](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Communication_Plan_-_FOMP.pdf)
+
 [Teaching & Learning Course Reflection]
 
 # Instructional Design Samples
