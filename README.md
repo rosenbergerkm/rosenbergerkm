@@ -13,7 +13,6 @@ As a professional in Instructional Design and Educational Learning Technologies,
 
 [Instructor Communication Plan/Statement](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Communication_Plan_-_FOMP.pdf)
 
-[Teaching & Learning Course Reflection]
 
 # Instructional Design Samples
 [Succeeding as an Online Student (Articulate Rise Sample)](https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/)
