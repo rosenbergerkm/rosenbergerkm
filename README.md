@@ -7,7 +7,7 @@ As a professional in Instructional Design and Educational Learning Technologies,
 
 [Course Goals and Outcomes](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course_Objectives.pdf)
 
-[Course Map](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course_Map_-_Fundamentals_of_Music_Production.pdf)
+[Course Map](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course_Map_Fundamentals_of_Music_Production%20v2.pdf)
 
 [Course Activity/Assessment](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Mini-Project_1_FOMP_Class.pdf)
 
