@@ -15,7 +15,7 @@ As a professional in Instructional Design and Educational Learning Technologies,
 
 
 # Instructional Design Samples
-[Succeeding as an Online Student (Articulate Rise Sample)](https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/)
+[Succeeding as an Online Student (Articulate Rise Sample)](https://share.articulate.com/ME0D2P9bjAZRrFp7H4BdS)
 
 # Online Course Samples
 [Course Objectives Sample](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf)  
